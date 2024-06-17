@@ -1,7 +1,7 @@
 # Weather Hub
 
--> Deployed link : https://weatherhub-vo8.vercel.app/
--> Demo video : https://www.loom.com/share/6d5c1006ec6646c9bfa6783e590a7740
+### Deployed link : https://weatherhub-vo8.vercel.app/
+### Demo video : https://www.loom.com/share/6d5c1006ec6646c9bfa6783e590a7740
 
 ## Project Overview
 This is a simple weather web application, where we can get the weather details of a particular city by entering a city name.
